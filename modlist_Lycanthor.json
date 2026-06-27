@@ -1,5 +1,5 @@
 {
-	"version": "1",
+	"version": "2",
 	"author": "JesseWV",
 	"authorURL": "https://github.com/JesseWV",
 	"supportURL": "",
@@ -8,11 +8,11 @@
 			"type": "mod",
 			"version": "1.0.0",
 			"name": "NoHarvestAnimations",
-			"displayName": "",
+			"displayName": "No Harvest Animations",
 			"author": "Lycanthor",
 			"previousAuthors": "",
-			"released": "2026-06-26",
-			"updated": "2026-06-26",
+			"released": "2026-06-27",
+			"updated": "2026-06-27",
 			"downloadURL": "https://github.com/JesseWV/NoHarvestAnimations/releases/latest/download/NoHarvestAnimations.dll",
 			"modURL": "https://github.com/JesseWV/NoHarvestAnimations",
 			"description": "Disables the first-person carcass harvesting and quartering animations.",
@@ -22,11 +22,10 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://raw.githubusercontent.com/JesseWV/NoHarvestAnimations/main/Usage.png"
-				"https://raw.githubusercontent.com/JesseWV/NoHarvestAnimations/main/Settings.png"
+				"https://raw.githubusercontent.com/JesseWV/TLDModsListJson/main/NoHarvestAnimations_Usage.png",
+				"https://raw.githubusercontent.com/JesseWV/TLDModsListJson/main/NoHarvestAnimations_Settings.png"
 			],
-			"dependencies": [
-			],
+			"dependencies": [],
 			"status": {
 				"working": true,
 				"beta": false,
