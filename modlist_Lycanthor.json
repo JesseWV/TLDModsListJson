@@ -25,7 +25,9 @@
 				"https://raw.githubusercontent.com/JesseWV/TLDModsListJson/main/NoHarvestAnimations_Usage.png",
 				"https://raw.githubusercontent.com/JesseWV/TLDModsListJson/main/NoHarvestAnimations_Settings.png"
 			],
-			"dependencies": [],
+			"dependencies": [
+				"ModSettings"
+			],
 			"status": {
 				"working": true,
 				"beta": false,
