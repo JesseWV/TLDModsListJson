@@ -6,16 +6,16 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "1.0.0",
+			"version": "1.1.0",
 			"name": "NoHarvestAnimations",
 			"displayName": "No Harvest Animations",
 			"author": "Lycanthor",
 			"previousAuthors": "",
 			"released": "2026-06-27",
-			"updated": "2026-06-27",
+			"updated": "2026-07-31",
 			"downloadURL": "https://github.com/JesseWV/NoHarvestAnimations/releases/latest/download/NoHarvestAnimations.dll",
 			"modURL": "https://github.com/JesseWV/NoHarvestAnimations",
-			"description": "Disables the first-person carcass harvesting and quartering animations.",
+			"description": "Disables the first-person carcass harvesting and quartering animations, using the game's native progress circle instead. Optionally speeds harvesting and quartering up in real time, leaving the in-game time they cost unchanged.",
 			"tags": "",
 			"categories": [
 				"Gameplay"
