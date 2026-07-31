@@ -47,6 +47,50 @@
 			},
 			"aliases": [],
 			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "WolfHowlFix",
+			"displayName": "Wolf Howl Fix",
+			"author": "Lycanthor",
+			"previousAuthors": "",
+			"released": "2026-07-31",
+			"updated": "2026-07-31",
+			"downloadURL": "https://github.com/JesseWV/TLD-WolfHowlFix/releases/latest/download/WolfHowlFix.dll",
+			"modURL": "https://github.com/JesseWV/TLD-WolfHowlFix",
+			"description": "Fixes wolf howls that stutter, restarting over and over instead of playing through. Most noticeable on aurora nights.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [
+				"https://raw.githubusercontent.com/JesseWV/TLDModsListJson/main/WolfHowlFix_BuggedHowl.gif",
+				"https://raw.githubusercontent.com/JesseWV/TLDModsListJson/main/WolfHowlFix_Settings.png"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.55",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/JesseWV/TLD-WolfHowlFix/releases/latest/download/WolfHowlFix.dll"
+				]
+			},
+			"aliases": [],
+			"replaces": []
 		}
 	]
 }
