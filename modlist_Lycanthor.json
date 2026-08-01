@@ -59,7 +59,7 @@
 			"updated": "2026-07-31",
 			"downloadURL": "https://github.com/JesseWV/TLD-WolfHowlFix/releases/latest/download/WolfHowlFix.dll",
 			"modURL": "https://github.com/JesseWV/TLD-WolfHowlFix",
-			"description": "Fixes wolf howls that stutter, restarting over and over instead of playing through. Most noticeable on aurora nights.",
+			"description": "Fixes the broken \"give up the chase\" timer that makes wolf howls stutter and restart endlessly, most noticeable on aurora nights. Bears and cougars share the same defect and are fixed too. No animal tuning is changed.",
 			"tags": "",
 			"categories": [
 				"Gameplay"
