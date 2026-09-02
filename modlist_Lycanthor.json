@@ -91,6 +91,50 @@
 			},
 			"aliases": [],
 			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.2.0",
+			"name": "FreeLook",
+			"displayName": "Free Look",
+			"author": "Lycanthor",
+			"previousAuthors": "",
+			"released": "2026-09-01",
+			"updated": "2026-09-01",
+			"downloadURL": "https://github.com/JesseWV/TLD-FreeLook/releases/latest/download/FreeLook.dll",
+			"modURL": "https://github.com/JesseWV/TLD-FreeLook",
+			"description": "Camera free look while walking. Hold a key and the view swings away from the direction you are travelling without turning your character, so you can keep walking one way while looking another. Release and it swings back at a speed you choose. Hold, toggle or double tap to latch, with controller support. Your held item is hidden while you look, and lantern and flashlight light is unaffected.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [
+				"https://raw.githubusercontent.com/JesseWV/TLDModsListJson/main/FreeLook_Screenshot.jpg",
+				"https://raw.githubusercontent.com/JesseWV/TLDModsListJson/main/FreeLook_Settings.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.55",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/JesseWV/TLD-FreeLook/releases/latest/download/FreeLook.dll"
+				]
+			},
+			"aliases": [],
+			"replaces": []
 		}
 	]
 }
