@@ -94,25 +94,26 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.0",
+			"version": "1.3.0",
 			"name": "FreeLook",
 			"displayName": "Free Look",
 			"author": "Lycanthor",
 			"previousAuthors": "",
 			"released": "2026-09-01",
-			"updated": "2026-09-01",
+			"updated": "2026-09-04",
 			"downloadURL": "https://github.com/JesseWV/TLD-FreeLook/releases/latest/download/FreeLook.dll",
 			"modURL": "https://github.com/JesseWV/TLD-FreeLook",
-			"description": "Camera free look while walking. Hold a key and the view swings away from the direction you are travelling without turning your character, so you can keep walking one way while looking another. Release and it swings back at a speed you choose. Hold, toggle or double tap to latch, with controller support. Your held item is hidden while you look, and lantern and flashlight light is unaffected.",
+			"description": "Finally look around freely while walking! Keep an eye on predators or just take in the beautiful scenery.",
 			"tags": "",
 			"categories": [
 				"Gameplay"
 			],
 			"gameversion": [],
 			"images": [
-				"https://raw.githubusercontent.com/JesseWV/TLDModsListJson/main/FreeLook_Screenshot_cr.jpg",
-				"https://raw.githubusercontent.com/JesseWV/TLDModsListJson/main/FreeLook_Settings_cr1.jpg",
-				"https://raw.githubusercontent.com/JesseWV/TLDModsListJson/main/FreeLook_Settings_cr2.jpg"
+				"https://raw.githubusercontent.com/JesseWV/TLD-FreeLook/master/screenshots/tldmods-main.gif",
+				"https://raw.githubusercontent.com/JesseWV/TLD-FreeLook/master/screenshots/Settings_1.jpg",
+				"https://raw.githubusercontent.com/JesseWV/TLD-FreeLook/master/screenshots/Settings_2.jpg",
+				"https://raw.githubusercontent.com/JesseWV/TLD-FreeLook/master/screenshots/Settings_3.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -120,7 +121,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "",
+				"patchnotes": "Now works in vehicles and includes a new Focus View mode!",
 				"notes": "",
 				"issues": ""
 			},
