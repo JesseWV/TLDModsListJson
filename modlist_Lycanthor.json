@@ -94,13 +94,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.3.0",
+			"version": "1.4.0",
 			"name": "FreeLook",
 			"displayName": "Free Look",
 			"author": "Lycanthor",
 			"previousAuthors": "",
 			"released": "2026-09-01",
-			"updated": "2026-09-04",
+			"updated": "2026-09-05",
 			"downloadURL": "https://github.com/JesseWV/TLD-FreeLook/releases/latest/download/FreeLook.dll",
 			"modURL": "https://github.com/JesseWV/TLD-FreeLook",
 			"description": "Finally look around freely while walking! Keep an eye on predators or just take in the beautiful scenery.",
@@ -118,7 +118,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Now works in vehicles and includes a new Focus View mode!",
+				"patchnotes": "Focus View now works without free look, and hands over cleanly when you raise a weapon.",
 				"notes": "",
 				"issues": ""
 			},
