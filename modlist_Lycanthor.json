@@ -110,10 +110,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://raw.githubusercontent.com/JesseWV/TLD-FreeLook/master/screenshots/tldmods-main.gif",
-				"https://raw.githubusercontent.com/JesseWV/TLD-FreeLook/master/screenshots/Settings_1.jpg",
-				"https://raw.githubusercontent.com/JesseWV/TLD-FreeLook/master/screenshots/Settings_2.jpg",
-				"https://raw.githubusercontent.com/JesseWV/TLD-FreeLook/master/screenshots/Settings_3.jpg"
+				"https://raw.githubusercontent.com/JesseWV/TLD-FreeLook/master/screenshots/tldmods-main.gif"
 			],
 			"dependencies": [
 				"ModSettings"
