@@ -134,6 +134,50 @@
 			},
 			"aliases": [],
 			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "2.0.0",
+			"name": "SilentWalker",
+			"displayName": "Silent Walker",
+			"author": "Lycanthor",
+			"previousAuthors": "",
+			"released": "2026-10-01",
+			"updated": "2026-10-01",
+			"downloadURL": "https://github.com/JesseWV/TLD-SilentWalker/releases/latest/download/SilentWalker.dll",
+			"modURL": "https://github.com/JesseWV/TLD-SilentWalker",
+			"description": "Pack your gear like a seasoned survivor: bottles full and upright, metal separated and wrapped, firewood tied down. Makes your movement quieter for you, the wildlife, or both, with separate sliders for small supplies, wood, metal and water.",
+			"tags": "",
+			"categories": [
+				"Audio",
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [
+				"https://raw.githubusercontent.com/JesseWV/TLD-SilentWalker/master/screenshots/tldmods-main.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "COMPLETE OVERHAUL! Now with two modes - Linked: One slider makes your footsteps quieter, for you AND for wildlife - Separate: Tune how much is just what you hear versus what the wildlife hears. Plus pack noise sliders for small supplies, wood, metal and water, detailed ground, clothing and tone controls, and an Enabled switch. Your 1.0.0 settings carry over.",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.55",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/JesseWV/TLD-SilentWalker/releases/latest/download/SilentWalker.dll"
+				]
+			},
+			"aliases": [],
+			"replaces": []
 		}
 	]
 }
