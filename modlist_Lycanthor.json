@@ -178,6 +178,45 @@
 			},
 			"aliases": [],
 			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "ObjectSinkFix",
+			"displayName": "Object Sink Fix",
+			"author": "Lycanthor",
+			"previousAuthors": "",
+			"released": "2026-10-11",
+			"updated": "2026-10-11",
+			"downloadURL": "https://github.com/JesseWV/TLD-ObjectSinkFix/releases/latest/download/ObjectSinkFix.dll",
+			"modURL": "https://github.com/JesseWV/TLD-ObjectSinkFix",
+			"description": "Fixes furniture sinking into floors and the ground, and containers vanishing when you return to a location. Puts sunken furniture back and brings lost containers back, on existing saves. Works automatically.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "First release. Stops furniture sinking, restores furniture that already sank, stops containers vanishing on reload, and brings back containers the bug already removed. One optional setting with ModSettings.",
+				"notes": "ModSettings is optional and only needed for the one setting.",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.55",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/JesseWV/TLD-ObjectSinkFix/releases/latest/download/ObjectSinkFix.dll"
+				]
+			},
+			"aliases": [],
+			"replaces": []
 		}
 	]
 }
