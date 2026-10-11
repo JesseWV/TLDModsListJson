@@ -196,7 +196,9 @@
 				"Gameplay"
 			],
 			"gameversion": [],
-			"images": [],
+			"images": [
+				"https://raw.githubusercontent.com/JesseWV/TLD-ObjectSinkFix/master/Release.jpg"
+			],
 			"dependencies": [],
 			"status": {
 				"working": true,
