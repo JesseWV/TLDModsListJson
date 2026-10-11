@@ -237,7 +237,9 @@
 				"Gameplay"
 			],
 			"gameversion": [],
-			"images": [],
+			"images": [
+				"https://raw.githubusercontent.com/JesseWV/TLD-DuplicateItemFix/master/screenshots/tldmods-main.gif"
+			],
 			"dependencies": [],
 			"status": {
 				"working": true,
