@@ -231,7 +231,7 @@
 			"updated": "2026-10-11",
 			"downloadURL": "https://github.com/JesseWV/TLD-DuplicateItemFix/releases/latest/download/DuplicateItemFix.dll",
 			"modURL": "https://github.com/JesseWV/TLD-DuplicateItemFix",
-			"description": "Repairs corrupt world-item data in an existing save. On a long-running save, sticks, stones, coal, bark tinder and crow feathers can pile up invisibly at one spawn point, so an item can be picked up more than once and returns to a spot you already cleared. This removes the extra entries as each region loads, and also collapses loose items that the world's gear list records more than once. Works automatically, with no settings.",
+			"description": "Fixes sticks, stones, coal and other items that you can pick up again and again from the same spot. It cleans up the bad data in your save as each region loads. Works automatically, with no settings.",
 			"tags": "",
 			"categories": [
 				"Gameplay"
@@ -242,8 +242,8 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "First release. Repairs duplicated spawn-point entries and duplicated loose-item records in existing saves as each region loads. Back up your saves first. If a mod places the same item at identical coordinates twice, one copy is removed.",
-				"notes": "Repairs existing damage only; it does not stop the damage from forming. Regions you never revisit keep their damage.",
+				"patchnotes": "First release. Back up your saves first.",
+				"notes": "Repairs existing damage only. Regions you never revisit keep their damage.",
 				"issues": ""
 			},
 			"testedon": {
