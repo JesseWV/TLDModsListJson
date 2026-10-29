@@ -261,6 +261,51 @@
 			},
 			"aliases": [],
 			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "0.1.0",
+			"name": "Teleporter",
+			"displayName": "Teleporter",
+			"author": "Lycanthor",
+			"previousAuthors": "",
+			"released": "2026-10-29",
+			"updated": "2026-10-29",
+			"downloadURL": "https://github.com/JesseWV/TLD-Teleporter/releases/latest/download/Teleporter.dll",
+			"modURL": "https://github.com/JesseWV/TLD-Teleporter",
+			"description": "Pick any existing game destination from the menu and travel there instantly! Compatible with Seamless Interiors.",
+			"tags": "",
+			"categories": [
+				"Utility Mod",
+				"Cheats"
+			],
+			"gameversion": [],
+			"images": [
+				"https://raw.githubusercontent.com/JesseWV/TLDModsListJson/main/Teleporter_Release.gif",
+				"https://raw.githubusercontent.com/JesseWV/TLDModsListJson/main/Teleporter_Picker.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": true,
+				"patchnotes": "First release. Back up your saves first.",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.58",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/JesseWV/TLD-Teleporter/releases/latest/download/Teleporter.dll"
+				]
+			},
+			"aliases": [],
+			"replaces": []
 		}
 	]
 }
