@@ -290,7 +290,7 @@
 			"status": {
 				"working": true,
 				"beta": true,
-				"patchnotes": "First release. Back up your saves first.",
+				"patchnotes": "WARNING: do not teleport while riding the train (Iron Road). Players report the train is deleted when you do; get off the train first. A fix is on the way. First release. Back up your saves first.",
 				"notes": "",
 				"issues": ""
 			},
