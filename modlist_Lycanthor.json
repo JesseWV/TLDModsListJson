@@ -264,13 +264,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "0.1.0",
+			"version": "0.1.1",
 			"name": "Teleporter",
 			"displayName": "Teleporter",
 			"author": "Lycanthor",
 			"previousAuthors": "",
 			"released": "2026-10-29",
-			"updated": "2026-10-29",
+			"updated": "2026-10-31",
 			"downloadURL": "https://github.com/JesseWV/TLD-Teleporter/releases/latest/download/Teleporter.dll",
 			"modURL": "https://github.com/JesseWV/TLD-Teleporter",
 			"description": "Pick any existing game destination from the menu and travel there instantly! Compatible with Seamless Interiors.",
@@ -290,7 +290,7 @@
 			"status": {
 				"working": true,
 				"beta": true,
-				"patchnotes": "WARNING: do not teleport while riding the train (Iron Road). Players report the train is deleted when you do; get off the train first. A fix is on the way. First release. Back up your saves first.",
+				"patchnotes": "Fixed: teleporting while riding the train deleted the train. The teleporter now refuses while you are on the train, in a vehicle, on a rope, in a snow shelter or placing something. Back up your saves first.",
 				"notes": "",
 				"issues": ""
 			},
