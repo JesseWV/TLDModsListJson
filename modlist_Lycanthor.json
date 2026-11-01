@@ -182,13 +182,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.0",
+			"version": "1.0.1",
 			"name": "ObjectSinkFix",
 			"displayName": "Object Sink Fix",
 			"author": "Lycanthor",
 			"previousAuthors": "",
 			"released": "2026-10-11",
-			"updated": "2026-10-11",
+			"updated": "2026-11-01",
 			"downloadURL": "https://github.com/JesseWV/TLD-ObjectSinkFix/releases/latest/download/ObjectSinkFix.dll",
 			"modURL": "https://github.com/JesseWV/TLD-ObjectSinkFix",
 			"description": "Fixes furniture sinking into floors and the ground, and containers vanishing when you return to a location. Puts sunken furniture back and brings lost containers back, on existing saves. Works automatically.",
@@ -204,12 +204,12 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "First release. Stops furniture sinking, restores furniture that already sank, stops containers vanishing on reload, and brings back containers the bug already removed. One optional setting with ModSettings.",
+				"patchnotes": "Works with The Long Dark 2.58 and 2.59. Fixes an error that 1.0.0 wrote to the MelonLoader log on every location load, which could also leave rolled loot in a container brought back by the mod.",
 				"notes": "ModSettings is optional and only needed for the one setting.",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.55",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
